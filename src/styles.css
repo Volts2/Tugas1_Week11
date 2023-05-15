@@ -1,0 +1,30 @@
+body {
+  background-color: grey;
+}
+
+.container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: "Press Start 2P", cursive;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.Buttons button {
+  font-size: 18px;
+  padding: 10px 20px;
+  margin: 0 10px;
+  background-color: blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-family: "Press Start 2P", cursive;
+}
+
+.Buttons button:hover {
+  background-color: #0044cc;
+}
